@@ -225,6 +225,7 @@ main {
     width: 80px;
     height: 80px;
     border-radius: 8px;
+    object-fit: contain;
 }
 
 .company-unit {
@@ -281,3 +282,4 @@ footer {
     color: #fff; /* 링크 글자색 */
     text-decoration: none; /* 링크 밑줄 제거 */
 }
+
